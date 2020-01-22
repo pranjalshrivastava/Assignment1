@@ -8,6 +8,7 @@ namespace Assignment1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is year 2020");
+            Console.WriteLine("This is month jan");
         }
     }
 }
